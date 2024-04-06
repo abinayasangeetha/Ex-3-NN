@@ -104,8 +104,9 @@ predict(w1,w2,test)
 ```
 
 ## Output:
-![Screenshot 2024-04-06 190848](https://github.com/abinayasangeetha/Ex-3-NN/assets/119393675/5f8b306c-65be-4841-bf8c-ab2407542bb6)
 
+
+![Screenshot 2024-04-06 190848](https://github.com/abinayasangeetha/Ex-3-NN/assets/119393675/d9684e3a-bec5-478c-b9cb-75cc807ccfac)
 
 
 
